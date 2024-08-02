@@ -38,4 +38,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## ✅ Live Demo
 
-Check out the live demo of the website [here]().
+Check out the live demo of the website [here](https://oop7.github.io/Github-Profile-Finder/).
